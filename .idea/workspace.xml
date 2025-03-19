@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62dd42f9-82f1-47f5-9533-7c10bee9b807" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/GatewayBffApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/controller/ControllerGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/model/UserOrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/repository/RepositoryGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/java/com/example/gatewayBFF/service/ServiceGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayBFF/src/test/java/com/example/gatewayBFF/GatewayBffApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/.idea/amplicode-jpa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/src/main/java/ru/pavel/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-libs/src/main/java/ru/pavel/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/main/java/com/example/orderAPI/OrderApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/main/java/com/example/orderAPI/controller/ControllerOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/main/java/com/example/orderAPI/repository/RepositoryOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/main/java/com/example/orderAPI/services/ServicesOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderAPI/src/test/java/com/example/orderAPI/OrderApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.idea/amplicode-jpa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.idea/amplicode-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-libs/src/main/java/ru/pavel/lib/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/main/java/com/example/userAPI/UserApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/main/java/com/example/userAPI/controller/ControllerUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/main/java/com/example/userAPI/repository/RepositoryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/main/java/com/example/userAPI/service/ServiceUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userAPI/src/test/java/com/example/userAPI/UserApiApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleModuleStateConfig" initialized="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uU8OeTNUPqk1dLx1ZXgivucqd1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/Netologia/Example_55_1",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot Application.UserApiApplication">
+    <configuration name="GatewayBffApplication" type="AmplicodeSpringBootApplication" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gatewayBFF.GatewayBffApplication" />
+      <module name="gatewayBFF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApiApplication" type="AmplicodeSpringBootApplication" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.orderAPI.OrderApiApplication" />
+      <module name="orderAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApiApplication" type="AmplicodeSpringBootApplication" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.userAPI.UserApiApplication" />
+      <module name="userAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62dd42f9-82f1-47f5-9533-7c10bee9b807" name="Changes" comment="" />
+      <created>1742291764350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742291764350</updated>
+    </task>
+    <servers />
+  </component>
+</project>
